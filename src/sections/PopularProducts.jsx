@@ -1,5 +1,5 @@
 const PopularProducts = () => {
-  return <div>PopularProducts</div>;
+  return ();
 };
 
 export default PopularProducts;
