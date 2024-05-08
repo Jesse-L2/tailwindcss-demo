@@ -1,3 +1,4 @@
 import PopularProductCard from "./PopularProductCard";
+import Button from "./Button";
 
-export { PopularProductCard };
+export { Button, PopularProductCard };
